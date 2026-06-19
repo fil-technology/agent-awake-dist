@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Agent Awake</title>
+    <link>https://raw.githubusercontent.com/fil-technology/agent-awake-dist/main/appcast.xml</link>
+    <description>Agent Awake automatic update feed</description>
+    <language>en</language>
+    <!-- Release <item> entries are added automatically by CI on each tagged release. -->
+  </channel>
+</rss>
