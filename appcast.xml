@@ -1,10 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Agent Awake</title>
+    <title>AwakeMate</title>
     <link>https://raw.githubusercontent.com/fil-technology/agent-awake-dist/main/appcast.xml</link>
-    <description>Agent Awake automatic update feed</description>
+    <description>AwakeMate automatic update feed</description>
     <language>en</language>
-    <!-- Release <item> entries are added automatically by CI on each tagged release. -->
+    <item>
+      <title>0.1.0</title>
+      <pubDate>Sat, 20 Jun 2026 06:51:31 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.0/AwakeMate-0.1.0.dmg" sparkle:version="0.1.0" sparkle:shortVersionString="0.1.0" type="application/octet-stream" sparkle:edSignature="iqkRiGFmA12m36VYNh3UuxK+EoI5YTDF57YBK29VpW/3vLMmhylfBlSw3UxWX8oapU3RkyVI1DCAfQFjx+ShBw==" length="4273844" />
+    </item>
   </channel>
 </rss>
