@@ -6,12 +6,14 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.8</title>
-      <description><![CDATA[<h3>What's new in 0.1.8</h3><ul><li>Invite a Friend: the QR code now ripples into view as it is created.</li>
-<li>Have an invite code? Redeem it right from the License screen.</li></ul>]]></description>
-      <pubDate>Sun, 21 Jun 2026 10:23:57 +0000</pubDate>
+      <title>0.1.9</title>
+      <description><![CDATA[<h3>What's new in 0.1.9</h3><ul><li>Screensaver now cycles through every running app, each with its own uptime.</li>
+<li>Open AwakeMate straight from the menu bar.</li>
+<li>Cleaner popups: a top-right close button on Release Notes, Activation and the invite sheets, instead of the macOS traffic lights.</li>
+<li>Stats shows a clear empty state until there&apos;s real usage, instead of placeholder figures.</li></ul>]]></description>
+      <pubDate>Sun, 21 Jun 2026 13:42:17 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.8/AwakeMate-0.1.8.dmg" sparkle:version="0.1.8" sparkle:shortVersionString="0.1.8" type="application/octet-stream" sparkle:edSignature="ENhutOjyIyZ6uLvSR1I7+AL/SWG40u/uv2DO3HxkqakK/Rr7QujlUvjW+vN84t1oebjyjswwgXU+9181wkQxCQ==" length="6453227" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.9/AwakeMate-0.1.9.dmg" sparkle:version="0.1.9" sparkle:shortVersionString="0.1.9" type="application/octet-stream" sparkle:edSignature="rj3Yc94ugTVmP19vwkEmiTJwfDZDuSkIUVNwjGI0hN0/6D2jre5iBnfzBXVKSMxEHDUYnt0aB+pCDr5C6f6qBg==" length="6474252" />
     </item>
   </channel>
 </rss>
