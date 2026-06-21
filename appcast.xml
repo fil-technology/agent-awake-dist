@@ -6,10 +6,12 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.7</title>
-      <pubDate>Sun, 21 Jun 2026 09:01:51 +0000</pubDate>
+      <title>0.1.8</title>
+      <description><![CDATA[<h3>What's new in 0.1.8</h3><ul><li>Invite a Friend: the QR code now ripples into view as it is created.</li>
+<li>Have an invite code? Redeem it right from the License screen.</li></ul>]]></description>
+      <pubDate>Sun, 21 Jun 2026 10:23:57 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.7/AwakeMate-0.1.7.dmg" sparkle:version="0.1.7" sparkle:shortVersionString="0.1.7" type="application/octet-stream" sparkle:edSignature="o9eXftfuVx/srwRBliS45BaDMCAA0VmbZ+4NOtD27NCClyydCpuMS2q6gth/ergGRSAKajABoQ8is41Ct7S8CA==" length="6400993" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.8/AwakeMate-0.1.8.dmg" sparkle:version="0.1.8" sparkle:shortVersionString="0.1.8" type="application/octet-stream" sparkle:edSignature="ENhutOjyIyZ6uLvSR1I7+AL/SWG40u/uv2DO3HxkqakK/Rr7QujlUvjW+vN84t1oebjyjswwgXU+9181wkQxCQ==" length="6453227" />
     </item>
   </channel>
 </rss>
