@@ -6,14 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.9</title>
-      <description><![CDATA[<h3>What's new in 0.1.9</h3><ul><li>Screensaver now cycles through every running app, each with its own uptime.</li>
-<li>Open AwakeMate straight from the menu bar.</li>
-<li>Cleaner popups: a top-right close button on Release Notes, Activation and the invite sheets, instead of the macOS traffic lights.</li>
-<li>Stats shows a clear empty state until there&apos;s real usage, instead of placeholder figures.</li></ul>]]></description>
-      <pubDate>Sun, 21 Jun 2026 13:42:17 +0000</pubDate>
+      <title>0.1.10</title>
+
+      <pubDate>Sun, 21 Jun 2026 19:12:45 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.9/AwakeMate-0.1.9.dmg" sparkle:version="0.1.9" sparkle:shortVersionString="0.1.9" type="application/octet-stream" sparkle:edSignature="rj3Yc94ugTVmP19vwkEmiTJwfDZDuSkIUVNwjGI0hN0/6D2jre5iBnfzBXVKSMxEHDUYnt0aB+pCDr5C6f6qBg==" length="6474252" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.10/AwakeMate-0.1.10.dmg" sparkle:version="0.1.10" sparkle:shortVersionString="0.1.10" type="application/octet-stream" sparkle:edSignature="8+C005Sn26ifFXWOnhPVrig0Zh75Vbsr8gXm2ElJ9dq1V21G/qN8QmSF+Zl2UwxFnbxF17S8ZcWMq6hnA2/CBQ==" length="6474620" />
     </item>
   </channel>
 </rss>
