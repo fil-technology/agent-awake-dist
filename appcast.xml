@@ -6,11 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.15</title>
-      <description><![CDATA[<h3>What's new in 0.1.15</h3><ul><li>Installing an update no longer shows the quit confirmation - it relaunches straight into the new version.</li></ul>]]></description>
-      <pubDate>Mon, 22 Jun 2026 15:04:45 +0000</pubDate>
+      <title>0.1.16</title>
+      <description><![CDATA[<h3>What's new in 0.1.16</h3><ul><li>The About screen now checks for updates the moment you open it and shows the real status (checking, update available, or up to date) instead of always reading &quot;up to date&quot;.</li></ul>]]></description>
+      <pubDate>Mon, 22 Jun 2026 15:15:28 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.15/AwakeMate-0.1.15.dmg" sparkle:version="115" sparkle:shortVersionString="0.1.15" type="application/octet-stream" sparkle:edSignature="BqvURQ+f/3lLSo9K8NEeEcMWtUtricmkrsLromZZQxKFYt3On2HYSVMo/9wPzM5leTPVveQF57GhJt61Vv3ICw==" length="6483498" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.16/AwakeMate-0.1.16.dmg" sparkle:version="116" sparkle:shortVersionString="0.1.16" type="application/octet-stream" sparkle:edSignature="E+q3hGTXCRlZ1uL6FOcYUgF4isSslyfsTg2Gk4RIT0xcLp+wRUCkEdFKBDmjodlakGZp/JMzgQgxPQg0cS8CCg==" length="6491876" />
     </item>
   </channel>
 </rss>
