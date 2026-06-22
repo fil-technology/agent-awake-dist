@@ -6,11 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.11</title>
-
-      <pubDate>Mon, 22 Jun 2026 14:25:14 +0000</pubDate>
+      <title>0.1.12</title>
+      <description><![CDATA[<h3>What's new in 0.1.12</h3><ul><li>Automatic updates now install reliably - earlier versions could wrongly report you were on the latest version.</li></ul>]]></description>
+      <pubDate>Mon, 22 Jun 2026 14:34:01 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.11/AwakeMate-0.1.11.dmg" sparkle:version="111" sparkle:shortVersionString="0.1.11" type="application/octet-stream" sparkle:edSignature="llSkZbLIVwGkTcjeSByChdHJdbTx2UEP9PNbQm9x4fNXRlGCKODMOkD69cwBknDlm+wFUrieYzHeIZO4AwGICQ==" length="6484505" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.12/AwakeMate-0.1.12.dmg" sparkle:version="112" sparkle:shortVersionString="0.1.12" type="application/octet-stream" sparkle:edSignature="gZonDNR3uREYp68xgAZLIxL14S2Q5AuWiXQLvEqNuw0MHGUJfBmBKlejPvQXj1H2RTTZSStn2cQw8bWUO4xlBw==" length="6483671" />
     </item>
   </channel>
 </rss>
