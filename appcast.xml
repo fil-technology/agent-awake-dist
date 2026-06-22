@@ -10,7 +10,7 @@
 
       <pubDate>Mon, 22 Jun 2026 14:25:14 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.11/AwakeMate-0.1.11.dmg" sparkle:version="0.1.11" sparkle:shortVersionString="0.1.11" type="application/octet-stream" sparkle:edSignature="llSkZbLIVwGkTcjeSByChdHJdbTx2UEP9PNbQm9x4fNXRlGCKODMOkD69cwBknDlm+wFUrieYzHeIZO4AwGICQ==" length="6484505" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.11/AwakeMate-0.1.11.dmg" sparkle:version="111" sparkle:shortVersionString="0.1.11" type="application/octet-stream" sparkle:edSignature="llSkZbLIVwGkTcjeSByChdHJdbTx2UEP9PNbQm9x4fNXRlGCKODMOkD69cwBknDlm+wFUrieYzHeIZO4AwGICQ==" length="6484505" />
     </item>
   </channel>
 </rss>
