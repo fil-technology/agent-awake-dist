@@ -6,14 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.18</title>
-      <description><![CDATA[<h3>What's new in 0.1.18</h3><ul><li>Much lighter on CPU and battery - the notch widget, the main window, and the ambient screensaver now stay near-idle instead of redrawing every frame.</li>
-<li>The notch eyes blink properly again, and animated notch styles (Eye, Eyes, Live, Ticker) gain an Animated toggle to hold them perfectly still.</li>
-<li>The screensaver is far lighter, especially across multiple displays.</li>
-<li>AwakeMate now checks for updates every 6 hours, and the menu shows an &quot;Update available&quot; badge when a new version is ready.</li></ul>]]></description>
-      <pubDate>Tue, 23 Jun 2026 14:22:58 +0000</pubDate>
+      <title>0.1.19</title>
+      <description><![CDATA[<h3>What's new in 0.1.19</h3><ul><li>Updated the bundled AppMate SDK (invite, feedback and contact flows) to the latest release.</li></ul>]]></description>
+      <pubDate>Tue, 23 Jun 2026 14:36:10 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.18/AwakeMate-0.1.18.dmg" sparkle:version="118" sparkle:shortVersionString="0.1.18" type="application/octet-stream" sparkle:edSignature="zBcr5qG0RrBmdj3aykUDJq5KGCRNZMO+K3Ef+9rPtZe8K8rWHqZYKSyCYGBDe208OnM/4/pJL7hQlxv6D9QHAQ==" length="6521754" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.19/AwakeMate-0.1.19.dmg" sparkle:version="119" sparkle:shortVersionString="0.1.19" type="application/octet-stream" sparkle:edSignature="n07k6lmwSgud4njH1i9fTfp4Cutoe0AzMx/x7v7FFQe6qIVUVb/muzxayFkRTHQLF0wkbrdfC2uX0TDakfOfAw==" length="6806824" />
     </item>
   </channel>
 </rss>
