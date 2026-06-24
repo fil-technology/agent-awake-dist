@@ -6,13 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.21</title>
-      <description><![CDATA[<h3>What's new in 0.1.21</h3><ul><li>Onboarding now lets you set up &quot;Sleep when tools go idle&quot; and Deep CLI detection right in the flow.</li>
-<li>The &quot;Let it sleep after&quot; delay now offers a custom time, not just the fixed presets.</li>
-<li>Fixed an onboarding glitch where clicking Back quickly could get stuck on the final screen.</li></ul>]]></description>
-      <pubDate>Wed, 24 Jun 2026 08:13:41 +0000</pubDate>
+      <title>0.1.22</title>
+      <description><![CDATA[<h3>What's new in 0.1.22</h3><ul><li>The &quot;Sleep when tools go idle&quot; and &quot;Deep CLI detection&quot; settings are now a compact bar at the bottom of Apps &amp; Tools that opens on click, giving your tool list more room while keeping both options one tap away.</li></ul>]]></description>
+      <pubDate>Wed, 24 Jun 2026 14:18:19 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.21/AwakeMate-0.1.21.dmg" sparkle:version="121" sparkle:shortVersionString="0.1.21" type="application/octet-stream" sparkle:edSignature="1F+gjIysLruUQYCqc98buy9rMyWzPsGgGUq+ZclMlIHQPcRo1UbMo258JOKKfAHbrAXtltQImtz6rtLJmACTCQ==" length="6857883" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.22/AwakeMate-0.1.22.dmg" sparkle:version="122" sparkle:shortVersionString="0.1.22" type="application/octet-stream" sparkle:edSignature="LGD9aF1OaB0kAjqrUJRWzBgyRwKRMs8/pXZwC66ubtg6oKpBEhjBTw0gM+LOOkXNmI8A2KU16plbk+osUKJiDA==" length="6864680" />
     </item>
   </channel>
 </rss>
