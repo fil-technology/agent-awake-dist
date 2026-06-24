@@ -6,11 +6,13 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.19</title>
-      <description><![CDATA[<h3>What's new in 0.1.19</h3><ul><li>Updated the bundled AppMate SDK (invite, feedback and contact flows) to the latest release.</li></ul>]]></description>
-      <pubDate>Tue, 23 Jun 2026 14:36:10 +0000</pubDate>
+      <title>0.1.20</title>
+      <description><![CDATA[<h3>What's new in 0.1.20</h3><ul><li>New (optional): &quot;Sleep when tools go idle&quot;. In Automatic mode, let your Mac sleep while a watched tool is sitting idle, instead of staying awake the whole time it&apos;s open. Off by default - turn it on in Apps &amp; Tools, and pick how long to wait. Works best for CPU-heavy tools like builds, and for agents running in the Claude app.</li>
+<li>The Status list now shows whether each watched tool is Working or Idle when that option is on.</li>
+<li>The Apps &amp; Tools list now scrolls properly, so you can see your full list of tools and the settings below it.</li></ul>]]></description>
+      <pubDate>Wed, 24 Jun 2026 07:34:11 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.19/AwakeMate-0.1.19.dmg" sparkle:version="119" sparkle:shortVersionString="0.1.19" type="application/octet-stream" sparkle:edSignature="n07k6lmwSgud4njH1i9fTfp4Cutoe0AzMx/x7v7FFQe6qIVUVb/muzxayFkRTHQLF0wkbrdfC2uX0TDakfOfAw==" length="6806824" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.20/AwakeMate-0.1.20.dmg" sparkle:version="120" sparkle:shortVersionString="0.1.20" type="application/octet-stream" sparkle:edSignature="kbqFLVH/GXyw9uijuSKYsC6IRqjY4BxyzkyMoWBWS70TfCA943zCBYz6cgxF0AbRohOvy8is5KVp88YHwL52AQ==" length="6843633" />
     </item>
   </channel>
 </rss>
