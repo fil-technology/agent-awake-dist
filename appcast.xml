@@ -6,13 +6,13 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.20</title>
-      <description><![CDATA[<h3>What's new in 0.1.20</h3><ul><li>New (optional): &quot;Sleep when tools go idle&quot;. In Automatic mode, let your Mac sleep while a watched tool is sitting idle, instead of staying awake the whole time it&apos;s open. Off by default - turn it on in Apps &amp; Tools, and pick how long to wait. Works best for CPU-heavy tools like builds, and for agents running in the Claude app.</li>
-<li>The Status list now shows whether each watched tool is Working or Idle when that option is on.</li>
-<li>The Apps &amp; Tools list now scrolls properly, so you can see your full list of tools and the settings below it.</li></ul>]]></description>
-      <pubDate>Wed, 24 Jun 2026 07:34:11 +0000</pubDate>
+      <title>0.1.21</title>
+      <description><![CDATA[<h3>What's new in 0.1.21</h3><ul><li>Onboarding now lets you set up &quot;Sleep when tools go idle&quot; and Deep CLI detection right in the flow.</li>
+<li>The &quot;Let it sleep after&quot; delay now offers a custom time, not just the fixed presets.</li>
+<li>Fixed an onboarding glitch where clicking Back quickly could get stuck on the final screen.</li></ul>]]></description>
+      <pubDate>Wed, 24 Jun 2026 08:13:41 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.20/AwakeMate-0.1.20.dmg" sparkle:version="120" sparkle:shortVersionString="0.1.20" type="application/octet-stream" sparkle:edSignature="kbqFLVH/GXyw9uijuSKYsC6IRqjY4BxyzkyMoWBWS70TfCA943zCBYz6cgxF0AbRohOvy8is5KVp88YHwL52AQ==" length="6843633" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.21/AwakeMate-0.1.21.dmg" sparkle:version="121" sparkle:shortVersionString="0.1.21" type="application/octet-stream" sparkle:edSignature="1F+gjIysLruUQYCqc98buy9rMyWzPsGgGUq+ZclMlIHQPcRo1UbMo258JOKKfAHbrAXtltQImtz6rtLJmACTCQ==" length="6857883" />
     </item>
   </channel>
 </rss>
