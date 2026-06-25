@@ -6,11 +6,12 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.22</title>
-      <description><![CDATA[<h3>What's new in 0.1.22</h3><ul><li>The &quot;Sleep when tools go idle&quot; and &quot;Deep CLI detection&quot; settings are now a compact bar at the bottom of Apps &amp; Tools that opens on click, giving your tool list more room while keeping both options one tap away.</li></ul>]]></description>
-      <pubDate>Wed, 24 Jun 2026 14:18:19 +0000</pubDate>
+      <title>0.1.23</title>
+      <description><![CDATA[<h3>What's new in 0.1.23</h3><ul><li>AwakeMate is now on sale - the in-app &quot;Buy a license&quot; button takes you straight to the store, and your key activates this Mac instantly.</li>
+<li>The Release Notes window now groups updates by month and day, so a growing changelog stays easy to scan.</li></ul>]]></description>
+      <pubDate>Thu, 25 Jun 2026 08:25:17 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.22/AwakeMate-0.1.22.dmg" sparkle:version="122" sparkle:shortVersionString="0.1.22" type="application/octet-stream" sparkle:edSignature="LGD9aF1OaB0kAjqrUJRWzBgyRwKRMs8/pXZwC66ubtg6oKpBEhjBTw0gM+LOOkXNmI8A2KU16plbk+osUKJiDA==" length="6864680" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.23/AwakeMate-0.1.23.dmg" sparkle:version="123" sparkle:shortVersionString="0.1.23" type="application/octet-stream" sparkle:edSignature="wYS5Ck3J8z2T2/NV/V3bdQ63NeE+kjsEkgDvKxR7PsEd45WF21Ixnje4Ej+pKi57DJkfQdY2ivvHkItZ4OHLCg==" length="6913149" />
     </item>
   </channel>
 </rss>
