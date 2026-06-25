@@ -6,12 +6,12 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.25</title>
-      <description><![CDATA[<h3>What's new in 0.1.25</h3><ul><li>Tool dots now show each tool&apos;s brand colour everywhere - the Apps &amp; Tools list and onboarding, not just the Status list.</li>
-<li>Switches across the app now use the same bright orange style as the main Status toggle.</li></ul>]]></description>
-      <pubDate>Thu, 25 Jun 2026 10:07:05 +0000</pubDate>
+      <title>0.1.26</title>
+      <description><![CDATA[<h3>What's new in 0.1.26</h3><ul><li>The notch widget now stays visible (dimmed) while your watched tools are running but idle, instead of disappearing every time the Mac is briefly allowed to sleep. It only hides when keep-awake is off or nothing is running.</li>
+<li>Added launch, quit and hand-off entries to the diagnostics log to make troubleshooting easier.</li></ul>]]></description>
+      <pubDate>Thu, 25 Jun 2026 11:01:01 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.25/AwakeMate-0.1.25.dmg" sparkle:version="125" sparkle:shortVersionString="0.1.25" type="application/octet-stream" sparkle:edSignature="tPSx/ind/M94N5enkDe5B3M1qfxjSUBnvf9PJwbzk4DQIR6KBflY16xl3tz/C2y0ewCT8CN4DsLmNrMYPVijCA==" length="6916169" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.26/AwakeMate-0.1.26.dmg" sparkle:version="126" sparkle:shortVersionString="0.1.26" type="application/octet-stream" sparkle:edSignature="SWBX6nOzrbBLXSiMPR70AIZmDMXgzA5RbF+3KPP0N3nONrsKdyGz3PuC83h2zSLb7WUkww/AHFGqPD05S1+cAA==" length="6922647" />
     </item>
   </channel>
 </rss>
