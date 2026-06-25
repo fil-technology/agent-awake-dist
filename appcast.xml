@@ -6,12 +6,12 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.23</title>
-      <description><![CDATA[<h3>What's new in 0.1.23</h3><ul><li>AwakeMate is now on sale - the in-app &quot;Buy a license&quot; button takes you straight to the store, and your key activates this Mac instantly.</li>
-<li>The Release Notes window now groups updates by month and day, so a growing changelog stays easy to scan.</li></ul>]]></description>
-      <pubDate>Thu, 25 Jun 2026 08:25:17 +0000</pubDate>
+      <title>0.1.24</title>
+      <description><![CDATA[<h3>What's new in 0.1.24</h3><ul><li>Activating your license now plays a little confetti celebration - including right on the License tab.</li>
+<li>Tool dots in Apps &amp; Tools now match each tool&apos;s brand colour: Python yellow, Rust red, Xcode blue, and more.</li></ul>]]></description>
+      <pubDate>Thu, 25 Jun 2026 09:28:55 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.23/AwakeMate-0.1.23.dmg" sparkle:version="123" sparkle:shortVersionString="0.1.23" type="application/octet-stream" sparkle:edSignature="wYS5Ck3J8z2T2/NV/V3bdQ63NeE+kjsEkgDvKxR7PsEd45WF21Ixnje4Ej+pKi57DJkfQdY2ivvHkItZ4OHLCg==" length="6913149" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.24/AwakeMate-0.1.24.dmg" sparkle:version="124" sparkle:shortVersionString="0.1.24" type="application/octet-stream" sparkle:edSignature="V12CLmOLiXyXoFwqPLMA1ukxuNtv3mFORQpAzWth+TS+bmBf4b7Dp/EUKi+XT05S/bWNNMP3LW1l02LNoVsADQ==" length="6917969" />
     </item>
   </channel>
 </rss>
