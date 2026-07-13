@@ -6,12 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.27</title>
-      <description><![CDATA[<h3>What's new in 0.1.27</h3><ul><li>New: keep your Mac awake even with the lid closed. Turn on &quot;Keep awake with the lid closed&quot; in Settings - Options (or during onboarding) and approve the one-time helper; AwakeMate then holds off sleep while a watched tool runs, even with the lid shut - and dims the built-in screen so it is not burning battery under the closed lid. Drop the Mac in your bag, tether to your phone, and keep an agent running. Off by default. It works on most Apple Silicon Macs, but Apple forces sleep on some models, so close your lid once to confirm it holds.</li>
-<li>The lid-closed helper is fully optional and self-contained: AwakeMate asks to install it only when you turn the feature on, reverts the setting (and restores screen brightness) when you turn it off or quit, and never changes your saved energy settings.</li></ul>]]></description>
-      <pubDate>Tue, 30 Jun 2026 06:34:39 +0000</pubDate>
+      <title>0.1.28</title>
+      <description><![CDATA[<h3>What's new in 0.1.28</h3><ul><li>Timed sessions now switch AwakeMate off when the timer ends. Before, if Automatic mode was also armed, a finished timer would quietly fall back to it and keep your Mac awake - now the timer ending turns AwakeMate off and stops tracking, so your Mac is free to sleep. Prefer it to return to the previous mode instead? Turn off &quot;Turn off when a timer ends&quot; in Settings - Options.</li></ul>]]></description>
+      <pubDate>Mon, 13 Jul 2026 06:12:58 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.27/AwakeMate-0.1.27.dmg" sparkle:version="127" sparkle:shortVersionString="0.1.27" type="application/octet-stream" sparkle:edSignature="sPUe0oDx5Vrth0AM8gL9TDdRWIh0z3tLbZS8JsiQANuJEB4XYV1vJQmaPWH9TW2nh+FLccL5/EYquBF3TmZzAw==" length="6936676" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.28/AwakeMate-0.1.28.dmg" sparkle:version="128" sparkle:shortVersionString="0.1.28" type="application/octet-stream" sparkle:edSignature="0sNRAOJK55BVDKjX1FNP6pF6WOmRC9OlU1psk8vQ8VtpywyfApqWObMwX6KGBLIcyo5lTCFHBTOHHWgDAGMyBQ==" length="7049487" />
     </item>
   </channel>
 </rss>
