@@ -6,11 +6,13 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.28</title>
-      <description><![CDATA[<h3>What's new in 0.1.28</h3><ul><li>Timed sessions now switch AwakeMate off when the timer ends. Before, if Automatic mode was also armed, a finished timer would quietly fall back to it and keep your Mac awake - now the timer ending turns AwakeMate off and stops tracking, so your Mac is free to sleep. Prefer it to return to the previous mode instead? Turn off &quot;Turn off when a timer ends&quot; in Settings - Options.</li></ul>]]></description>
-      <pubDate>Mon, 13 Jul 2026 06:12:58 +0000</pubDate>
+      <title>0.1.30</title>
+      <description><![CDATA[<h3>What's new in 0.1.30</h3><ul><li>Share polish: the Share control on Stats is now a compact icon, and the style picker shows a little preview of each look instead of just its name.</li>
+<li>Every shared card now carries the AwakeMate mark and awakemate.app along the bottom, so a card stays recognisable wherever it ends up.</li>
+<li>Buttons across the app now light up as you hover them, so it is clearer what you are about to click.</li></ul>]]></description>
+      <pubDate>Tue, 21 Jul 2026 12:49:20 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.28/AwakeMate-0.1.28.dmg" sparkle:version="128" sparkle:shortVersionString="0.1.28" type="application/octet-stream" sparkle:edSignature="0sNRAOJK55BVDKjX1FNP6pF6WOmRC9OlU1psk8vQ8VtpywyfApqWObMwX6KGBLIcyo5lTCFHBTOHHWgDAGMyBQ==" length="7049487" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.30/AwakeMate-0.1.30.dmg" sparkle:version="130" sparkle:shortVersionString="0.1.30" type="application/octet-stream" sparkle:edSignature="fSjPU+04X1BJJjBJMP4oyKx+95Gzq6KkKJTaQboyzJkPe/U1/xtnNneDpTI47EwoabSJMsXLVqWMWyT47daHBA==" length="7151768" />
     </item>
   </channel>
 </rss>
