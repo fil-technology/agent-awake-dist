@@ -6,13 +6,16 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.30</title>
-      <description><![CDATA[<h3>What's new in 0.1.30</h3><ul><li>Share polish: the Share control on Stats is now a compact icon, and the style picker shows a little preview of each look instead of just its name.</li>
-<li>Every shared card now carries the AwakeMate mark and awakemate.app along the bottom, so a card stays recognisable wherever it ends up.</li>
-<li>Buttons across the app now light up as you hover them, so it is clearer what you are about to click.</li></ul>]]></description>
-      <pubDate>Tue, 21 Jul 2026 12:49:20 +0000</pubDate>
+      <title>0.1.31</title>
+      <description><![CDATA[<h3>What's new in 0.1.31</h3><ul><li>Share cards come in three sizes now: the wide Card, a square Post (1080 × 1080) and a Story (1080 × 1920) for Instagram or TikTok. The card lays itself out to fit each one rather than being cropped.</li>
+<li>Copy now puts a short line about AwakeMate and the awakemate.app link on the clipboard alongside the picture, so a shared card explains itself. Want just the image? It is in the menu next to Copy, along with Share.</li>
+<li>Saving the image is now the main button, with Copy beside it.</li>
+<li>Times drop the empty half: 30h instead of 30h 00m, 45m instead of 0h 45m.</li>
+<li>A busy week no longer overflows the card - it shows your top tools and sums up the rest as &quot;+46 more&quot;.</li>
+<li>awakemate.app now stands out at the foot of every card, so anyone who sees one knows where to get it.</li></ul>]]></description>
+      <pubDate>Tue, 21 Jul 2026 13:01:14 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.30/AwakeMate-0.1.30.dmg" sparkle:version="130" sparkle:shortVersionString="0.1.30" type="application/octet-stream" sparkle:edSignature="fSjPU+04X1BJJjBJMP4oyKx+95Gzq6KkKJTaQboyzJkPe/U1/xtnNneDpTI47EwoabSJMsXLVqWMWyT47daHBA==" length="7151768" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.31/AwakeMate-0.1.31.dmg" sparkle:version="131" sparkle:shortVersionString="0.1.31" type="application/octet-stream" sparkle:edSignature="otKAvTTz5VSEnJRoJcU9AZAzD8kkSlS+NaEfAGcZiaiH3ZJ/5NyiRdnSkp9TT2SKxT6SXAf+0ph1/m+4spdPCg==" length="7190401" />
     </item>
   </channel>
 </rss>
