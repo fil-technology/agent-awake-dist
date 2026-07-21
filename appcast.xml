@@ -6,12 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.32</title>
-      <description><![CDATA[<h3>What's new in 0.1.32</h3><ul><li>Saving, copying and sharing a stats card are now one button. Click Save image to save it; the arrow beside it holds Copy card, Copy image only and Share.</li>
-<li>A short confirmation now appears when a card is copied or saved.</li></ul>]]></description>
-      <pubDate>Tue, 21 Jul 2026 13:07:55 +0000</pubDate>
+      <title>0.1.33</title>
+      <description><![CDATA[<h3>What's new in 0.1.33</h3><ul><li>Fixed the share sheet running off the bottom of the screen on smaller displays, which put the Save button out of reach. It now sizes itself to your screen and the card preview shrinks to fit, so every control stays visible.</li></ul>]]></description>
+      <pubDate>Tue, 21 Jul 2026 13:13:05 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.32/AwakeMate-0.1.32.dmg" sparkle:version="132" sparkle:shortVersionString="0.1.32" type="application/octet-stream" sparkle:edSignature="iZW4TYG0jlduqANg9TgIJUns7Sw/IiPGbVIqsBRNZHVWCBHvzH4OmZ9vM+rn21vWLf2GzdnMwZeGLuhU6SfVCA==" length="7199030" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.33/AwakeMate-0.1.33.dmg" sparkle:version="133" sparkle:shortVersionString="0.1.33" type="application/octet-stream" sparkle:edSignature="m/pdb36QZ08/PMN2v6nhxr4XjqXkBKWV68QJGWe+hgctkXJ10+g74tLGnkIuB7rkreTqZXOFabj2JSvxYa85BA==" length="7199162" />
     </item>
   </channel>
 </rss>
