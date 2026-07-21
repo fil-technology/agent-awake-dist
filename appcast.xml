@@ -6,16 +6,12 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.31</title>
-      <description><![CDATA[<h3>What's new in 0.1.31</h3><ul><li>Share cards come in three sizes now: the wide Card, a square Post (1080 × 1080) and a Story (1080 × 1920) for Instagram or TikTok. The card lays itself out to fit each one rather than being cropped.</li>
-<li>Copy now puts a short line about AwakeMate and the awakemate.app link on the clipboard alongside the picture, so a shared card explains itself. Want just the image? It is in the menu next to Copy, along with Share.</li>
-<li>Saving the image is now the main button, with Copy beside it.</li>
-<li>Times drop the empty half: 30h instead of 30h 00m, 45m instead of 0h 45m.</li>
-<li>A busy week no longer overflows the card - it shows your top tools and sums up the rest as &quot;+46 more&quot;.</li>
-<li>awakemate.app now stands out at the foot of every card, so anyone who sees one knows where to get it.</li></ul>]]></description>
-      <pubDate>Tue, 21 Jul 2026 13:01:14 +0000</pubDate>
+      <title>0.1.32</title>
+      <description><![CDATA[<h3>What's new in 0.1.32</h3><ul><li>Saving, copying and sharing a stats card are now one button. Click Save image to save it; the arrow beside it holds Copy card, Copy image only and Share.</li>
+<li>A short confirmation now appears when a card is copied or saved.</li></ul>]]></description>
+      <pubDate>Tue, 21 Jul 2026 13:07:55 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.31/AwakeMate-0.1.31.dmg" sparkle:version="131" sparkle:shortVersionString="0.1.31" type="application/octet-stream" sparkle:edSignature="otKAvTTz5VSEnJRoJcU9AZAzD8kkSlS+NaEfAGcZiaiH3ZJ/5NyiRdnSkp9TT2SKxT6SXAf+0ph1/m+4spdPCg==" length="7190401" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.32/AwakeMate-0.1.32.dmg" sparkle:version="132" sparkle:shortVersionString="0.1.32" type="application/octet-stream" sparkle:edSignature="iZW4TYG0jlduqANg9TgIJUns7Sw/IiPGbVIqsBRNZHVWCBHvzH4OmZ9vM+rn21vWLf2GzdnMwZeGLuhU6SfVCA==" length="7199030" />
     </item>
   </channel>
 </rss>
