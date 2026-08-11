@@ -6,11 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.36</title>
-      <description><![CDATA[<h3>What's new in 0.1.36</h3><ul><li>Fixed the screensaver clipping a long uptime - a session past a day now shows in full (for example &quot;25h 03m&quot;) instead of being cut off as &quot;25h 3...&quot;.</li></ul>]]></description>
-      <pubDate>Fri, 24 Jul 2026 06:04:01 +0000</pubDate>
+      <title>0.1.37</title>
+      <description><![CDATA[<h3>What's new in 0.1.37</h3><ul><li>The Status screen now shows a calm &quot;On watch&quot; placeholder when nothing is running yet - a gentle radar pulse around the eye - instead of a mostly-empty panel. It adapts to the mode, so a timed or always-on session gets its own line too.</li></ul>]]></description>
+      <pubDate>Tue, 11 Aug 2026 08:53:26 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.36/AwakeMate-0.1.36.dmg" sparkle:version="136" sparkle:shortVersionString="0.1.36" type="application/octet-stream" sparkle:edSignature="JGrNBy/7yf6K9Jv1LUfv1UMW0wKgkBQDNbA5EqkI7FoqM+AF8fozlY4VUVV3V7hKEOMzbSgB2IgAtuMexYa/BQ==" length="7255373" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.37/AwakeMate-0.1.37.dmg" sparkle:version="137" sparkle:shortVersionString="0.1.37" type="application/octet-stream" sparkle:edSignature="6ehh5fux+6P52CjEUaTaSx5N0BgHWk//HnZdzZapZv0UvCGOg7WJ1BwbJnboll+eGbJW3GdY9qioJxpmGnYxAw==" length="7424451" />
     </item>
   </channel>
 </rss>
