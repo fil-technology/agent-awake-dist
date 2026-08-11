@@ -6,11 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.37</title>
-      <description><![CDATA[<h3>What's new in 0.1.37</h3><ul><li>The Status screen now shows a calm &quot;On watch&quot; placeholder when nothing is running yet - a gentle radar pulse around the eye - instead of a mostly-empty panel. It adapts to the mode, so a timed or always-on session gets its own line too.</li></ul>]]></description>
-      <pubDate>Tue, 11 Aug 2026 08:53:26 +0000</pubDate>
+      <title>0.1.38</title>
+      <description><![CDATA[<h3>What's new in 0.1.38</h3><ul><li>Tidied the Status screen when nothing is running: the &quot;Keeping your Mac awake&quot; header now hides until there is actually a list under it, so the &quot;On watch&quot; placeholder sits cleanly on its own.</li></ul>]]></description>
+      <pubDate>Tue, 11 Aug 2026 08:58:29 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.37/AwakeMate-0.1.37.dmg" sparkle:version="137" sparkle:shortVersionString="0.1.37" type="application/octet-stream" sparkle:edSignature="6ehh5fux+6P52CjEUaTaSx5N0BgHWk//HnZdzZapZv0UvCGOg7WJ1BwbJnboll+eGbJW3GdY9qioJxpmGnYxAw==" length="7424451" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.38/AwakeMate-0.1.38.dmg" sparkle:version="138" sparkle:shortVersionString="0.1.38" type="application/octet-stream" sparkle:edSignature="EoVpJh8IjeiOQcy3jh95BeTJVDmPrzySGHWm90slQc5WA7pfLnRWoa887M7ZVcSTpPSHnFDYzfjM+kDDq9qLCw==" length="7424539" />
     </item>
   </channel>
 </rss>
