@@ -6,11 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.38</title>
-      <description><![CDATA[<h3>What's new in 0.1.38</h3><ul><li>Tidied the Status screen when nothing is running: the &quot;Keeping your Mac awake&quot; header now hides until there is actually a list under it, so the &quot;On watch&quot; placeholder sits cleanly on its own.</li></ul>]]></description>
-      <pubDate>Tue, 11 Aug 2026 08:58:29 +0000</pubDate>
+      <title>0.1.39</title>
+      <description><![CDATA[<h3>What's new in 0.1.39</h3><ul><li>Clicking the menu-bar icon now opens only its dropdown - it no longer pulls the main AwakeMate window to the foreground along with it. Use &quot;Open&quot; in the dropdown when you do want the full window.</li></ul>]]></description>
+      <pubDate>Tue, 01 Sep 2026 15:55:21 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.38/AwakeMate-0.1.38.dmg" sparkle:version="138" sparkle:shortVersionString="0.1.38" type="application/octet-stream" sparkle:edSignature="EoVpJh8IjeiOQcy3jh95BeTJVDmPrzySGHWm90slQc5WA7pfLnRWoa887M7ZVcSTpPSHnFDYzfjM+kDDq9qLCw==" length="7424539" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.39/AwakeMate-0.1.39.dmg" sparkle:version="139" sparkle:shortVersionString="0.1.39" type="application/octet-stream" sparkle:edSignature="Tw2G4hgWF+xLsN59NLx73vbH/qQRTZ1qSdjfpSwctctK6dy8uJgDnOYArJD4kPG2IE0pDl8sBBfQpHiAOeZ5Cg==" length="7424777" />
     </item>
   </channel>
 </rss>
