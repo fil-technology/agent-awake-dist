@@ -6,11 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.39</title>
-      <description><![CDATA[<h3>What's new in 0.1.39</h3><ul><li>Clicking the menu-bar icon now opens only its dropdown - it no longer pulls the main AwakeMate window to the foreground along with it. Use &quot;Open&quot; in the dropdown when you do want the full window.</li></ul>]]></description>
-      <pubDate>Tue, 01 Sep 2026 15:55:21 +0000</pubDate>
+      <title>0.1.40</title>
+      <description><![CDATA[<h3>What's new in 0.1.40</h3><ul><li>New: keep your Mac awake during file copies. Turn on &quot;Keep awake during file copies&quot; in Settings - Options and, in Automatic mode, a big Finder copy, download, or backup will hold off sleep even when no watched app is running - then the Mac sleeps once it is done. Tuned to catch heavy disk activity without false alarms; very slow transfers to a slow drive may not trip it.</li></ul>]]></description>
+      <pubDate>Sun, 13 Sep 2026 13:47:47 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.39/AwakeMate-0.1.39.dmg" sparkle:version="139" sparkle:shortVersionString="0.1.39" type="application/octet-stream" sparkle:edSignature="Tw2G4hgWF+xLsN59NLx73vbH/qQRTZ1qSdjfpSwctctK6dy8uJgDnOYArJD4kPG2IE0pDl8sBBfQpHiAOeZ5Cg==" length="7424777" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.40/AwakeMate-0.1.40.dmg" sparkle:version="140" sparkle:shortVersionString="0.1.40" type="application/octet-stream" sparkle:edSignature="bfLd3ZQs1KrN1DMSD09mgIsLIn+3zvyWoTO603esWQb0IdygRHM7jGvr3fXXH7nhoBYai+16FJLBb5eltUrvDw==" length="7429851" />
     </item>
   </channel>
 </rss>
