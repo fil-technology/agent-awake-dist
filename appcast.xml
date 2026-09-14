@@ -6,12 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.41</title>
-      <description><![CDATA[<h3>What's new in 0.1.41</h3><ul><li>Better &quot;keep awake during file copies&quot;: AwakeMate now watches external and removable drives (USB, SD cards, portable SSDs) separately from your internal disk. Those drives are silent unless you are actually writing to them, so even a slow copy to a slow external drive now holds off sleep - the kind of transfer the previous version could miss.</li>
-<li>The Status screen now shows a &quot;Copying files&quot; row while a copy is holding your Mac awake, so you can see exactly why it is staying up.</li></ul>]]></description>
-      <pubDate>Sun, 13 Sep 2026 16:12:28 +0000</pubDate>
+      <title>0.1.42</title>
+      <description><![CDATA[<h3>What's new in 0.1.42</h3><ul><li>New: a &quot;Minimize to an outline&quot; option for the notch widget (Settings - Notch). When on, the widget shrinks to a slim outline hugging the notch and stays out of your way; hover over it and it morphs back to the full status, then collapses again when you move away. Off by default.</li></ul>]]></description>
+      <pubDate>Mon, 14 Sep 2026 10:29:18 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.41/AwakeMate-0.1.41.dmg" sparkle:version="141" sparkle:shortVersionString="0.1.41" type="application/octet-stream" sparkle:edSignature="a1LYngtAQasIOmMBxCNJ+CSVTet6W4W+7qbIMbmbn2YMyeBbYxPeRq/eidtuOBN4YFkj88MZInQqP9J/GHDlDQ==" length="7447118" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.42/AwakeMate-0.1.42.dmg" sparkle:version="142" sparkle:shortVersionString="0.1.42" type="application/octet-stream" sparkle:edSignature="b/laqdneHin34Rx5ZQfY8LhCTnc9OZO+24oHcSI+cgM2YpUq4WCpcCMFsI3eClq/FOG5bFVEiuBIVp6FeThbDw==" length="7467558" />
     </item>
   </channel>
 </rss>
