@@ -6,11 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.44</title>
-      <description><![CDATA[<h3>What's new in 0.1.44</h3><ul><li>New: a featured 3D Mate integration at the top of Apps &amp; Tools. If you use 3D Mate (the local image/photo/video to 3D app), turn it on and AwakeMate holds your Mac awake while a model is generating - detected automatically from 3D Mate&apos;s own generation processes, including the texture and retopo steps - then lets it sleep when done. If you don&apos;t have 3D Mate yet, the card links you to it. Off by default.</li></ul>]]></description>
-      <pubDate>Fri, 18 Sep 2026 17:29:15 +0000</pubDate>
+      <title>0.1.45</title>
+      <description><![CDATA[<h3>What's new in 0.1.45</h3><ul><li>Fixed: the notch message shown when toggling the 3D Mate integration was too long to fit the notch. It is now short - &quot;Awake for 3D Mate&quot; / &quot;3D Mate off&quot;.</li></ul>]]></description>
+      <pubDate>Fri, 18 Sep 2026 17:47:56 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.44/AwakeMate-0.1.44.dmg" sparkle:version="144" sparkle:shortVersionString="0.1.44" type="application/octet-stream" sparkle:edSignature="Am4rRdp999JH3ODltOpQkK00kiCa+IsjIrb/XP/kKDNa3ENfWezf5MwCfoeqSAD8+ETPGlqxb0WYQXMHUI7mDg==" length="7473105" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.45/AwakeMate-0.1.45.dmg" sparkle:version="145" sparkle:shortVersionString="0.1.45" type="application/octet-stream" sparkle:edSignature="2dSQq9FLhmUK3mITcT7MtHM+bncsYtonB6FcedfL9xnSyD8NSwhtui94X2cMIY9sywFclM3SqQtekwROoEKVAA==" length="7473146" />
     </item>
   </channel>
 </rss>
