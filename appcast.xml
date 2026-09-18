@@ -6,11 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.43</title>
-      <description><![CDATA[<h3>What's new in 0.1.43</h3><ul><li>Stats charts are now interactive: hover over any bar in &quot;By day&quot; or &quot;By time of day&quot; and it highlights while the header shows that bar&apos;s details - the exact time kept awake for a day, or an hour&apos;s share of your busiest hour.</li></ul>]]></description>
-      <pubDate>Fri, 18 Sep 2026 10:16:25 +0000</pubDate>
+      <title>0.1.44</title>
+      <description><![CDATA[<h3>What's new in 0.1.44</h3><ul><li>New: a featured 3D Mate integration at the top of Apps &amp; Tools. If you use 3D Mate (the local image/photo/video to 3D app), turn it on and AwakeMate holds your Mac awake while a model is generating - detected automatically from 3D Mate&apos;s own generation processes, including the texture and retopo steps - then lets it sleep when done. If you don&apos;t have 3D Mate yet, the card links you to it. Off by default.</li></ul>]]></description>
+      <pubDate>Fri, 18 Sep 2026 17:29:15 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.43/AwakeMate-0.1.43.dmg" sparkle:version="143" sparkle:shortVersionString="0.1.43" type="application/octet-stream" sparkle:edSignature="KqlknvOK23visMo9TDRNhnTKPvTcXsuRkKOambrsZUZcOD1A4K07SPByFPKECBMloz7X1LMOU4pQJwaNx0WDBQ==" length="7481089" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.44/AwakeMate-0.1.44.dmg" sparkle:version="144" sparkle:shortVersionString="0.1.44" type="application/octet-stream" sparkle:edSignature="Am4rRdp999JH3ODltOpQkK00kiCa+IsjIrb/XP/kKDNa3ENfWezf5MwCfoeqSAD8+ETPGlqxb0WYQXMHUI7mDg==" length="7473105" />
     </item>
   </channel>
 </rss>
