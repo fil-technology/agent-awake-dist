@@ -6,11 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.45</title>
-      <description><![CDATA[<h3>What's new in 0.1.45</h3><ul><li>Fixed: the notch message shown when toggling the 3D Mate integration was too long to fit the notch. It is now short - &quot;Awake for 3D Mate&quot; / &quot;3D Mate off&quot;.</li></ul>]]></description>
-      <pubDate>Fri, 18 Sep 2026 17:47:56 +0000</pubDate>
+      <title>0.1.46</title>
+      <description><![CDATA[<h3>What's new in 0.1.46</h3><ul><li>The Status screen now shows a &quot;3D Mate&quot; row while a generation is holding your Mac awake, matching the &quot;Generating now&quot; state in Apps &amp; Tools (previously it only appeared in the notch).</li></ul>]]></description>
+      <pubDate>Fri, 18 Sep 2026 18:01:15 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.45/AwakeMate-0.1.45.dmg" sparkle:version="145" sparkle:shortVersionString="0.1.45" type="application/octet-stream" sparkle:edSignature="2dSQq9FLhmUK3mITcT7MtHM+bncsYtonB6FcedfL9xnSyD8NSwhtui94X2cMIY9sywFclM3SqQtekwROoEKVAA==" length="7473146" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.46/AwakeMate-0.1.46.dmg" sparkle:version="146" sparkle:shortVersionString="0.1.46" type="application/octet-stream" sparkle:edSignature="s+LpAF3hZBeORQR2mfXRHsf4ZjyM+XfFknW7QMnVUmllXJGAORW6WeRaMvGF+MkpZHDt6GzE9SMc7xJ1ynQDAw==" length="7475505" />
     </item>
   </channel>
 </rss>
