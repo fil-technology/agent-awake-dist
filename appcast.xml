@@ -6,11 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.47</title>
-      <description><![CDATA[<h3>What's new in 0.1.47</h3><ul><li>AwakeMate now speaks 9 more languages. Onboarding and Settings are localized into Simplified Chinese, Spanish, German, French, Japanese, Brazilian Portuguese, Korean, Italian and Russian - the app follows your Mac&apos;s language automatically. A few dynamic labels (like update and stats details) are still English for now and will follow.</li></ul>]]></description>
-      <pubDate>Fri, 25 Sep 2026 18:05:54 +0000</pubDate>
+      <title>0.1.48</title>
+      <description><![CDATA[<h3>What's new in 0.1.48</h3><ul><li>Localization polish: the in-app &quot;Suggest a tool&quot; / &quot;Suggest a feature&quot; window titles now translate too, so the whole suggestion flow is localized (the suggestion rows themselves were localized in 0.1.47).</li></ul>]]></description>
+      <pubDate>Fri, 25 Sep 2026 18:13:19 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.47/AwakeMate-0.1.47.dmg" sparkle:version="147" sparkle:shortVersionString="0.1.47" type="application/octet-stream" sparkle:edSignature="kzsjeVAdYdWr92NVcxl5HXk8iXRSB0nPhua1smuiL/2PLz7DV63JtcP6FkRKxA9eFUhxbCj0gAQVVB4HoqYXBw==" length="7538578" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.48/AwakeMate-0.1.48.dmg" sparkle:version="148" sparkle:shortVersionString="0.1.48" type="application/octet-stream" sparkle:edSignature="YGzOZlr246cOQt2qvNPJj5vy2R0kIBWzAI8gtl+i3+cddYsR+XlHJBNdHENF9ovbvXuZoVV3idjP7YxzkYeSBw==" length="7539640" />
     </item>
   </channel>
 </rss>
