@@ -6,14 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.52</title>
-      <description><![CDATA[<h3>What's new in 0.1.52</h3><ul><li>Language switching is now fully live everywhere: the &quot;Stay awake for…&quot; duration picker, Quiet Hours weekday letters and times, the weekly stats chart, and the screensaver all follow the chosen language instantly - previously some of these stayed in the launch language until a relaunch.</li>
-<li>Localized the onboarding tool picker: category headers (AI agents, Runtimes, Builds &amp; compilers…), the RUNNING badge and the &quot;Running now&quot; state.</li>
-<li>Updates: AwakeMate now checks for a new version automatically every couple of hours and once shortly after launch, showing the update prompt only when there&apos;s actually something newer.</li>
-<li>The software-update window now matches AwakeMate&apos;s dark theme.</li></ul>]]></description>
-      <pubDate>Sat, 26 Sep 2026 08:55:06 +0000</pubDate>
+      <title>0.1.53</title>
+      <description><![CDATA[<h3>What's new in 0.1.53</h3><ul><li>Localized the Apps &amp; Tools detection summary (&quot;Idle-sleep on · deep CLI on&quot;) - the last stretch of English in that panel now follows your language.</li></ul>]]></description>
+      <pubDate>Sat, 26 Sep 2026 09:08:18 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.52/AwakeMate-0.1.52.dmg" sparkle:version="152" sparkle:shortVersionString="0.1.52" type="application/octet-stream" sparkle:edSignature="9wHyOe2ibfcRJZMiSxDS6WpRX9J0xsIY1uuL+lC2uBzHdlcJWW1kfyme0YEO1EADmOCFoN6TDZxrysKJHhmyDg==" length="7678107" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.53/AwakeMate-0.1.53.dmg" sparkle:version="153" sparkle:shortVersionString="0.1.53" type="application/octet-stream" sparkle:edSignature="k68wxxnEyriwTN1NSyxI+MUxqc8T0Bt70wTa2/rzbVsjxs5Q10Q2RFIzgzRQBzEhBLa7JZLtRtb3rDGpAlb3CQ==" length="7678554" />
     </item>
   </channel>
 </rss>
