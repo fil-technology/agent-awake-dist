@@ -6,13 +6,14 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.51</title>
-      <description><![CDATA[<h3>What's new in 0.1.51</h3><ul><li>Language now switches live - pick one in Settings - Options or on the onboarding language screen and the whole app updates instantly, no relaunch.</li>
-<li>More localization: the &quot;Stay awake for…&quot; duration picker (15 min / 1 hour / Until… / Custom), Quiet Hours weekday letters and times, and the compact durations shown in Stats, timers and the menu bar (e.g. 112h 47m) now follow your language and locale.</li>
-<li>Weekday letters and clock times across the app now use your locale&apos;s format (24-hour where that&apos;s the norm).</li></ul>]]></description>
-      <pubDate>Sat, 26 Sep 2026 08:07:38 +0000</pubDate>
+      <title>0.1.52</title>
+      <description><![CDATA[<h3>What's new in 0.1.52</h3><ul><li>Language switching is now fully live everywhere: the &quot;Stay awake for…&quot; duration picker, Quiet Hours weekday letters and times, the weekly stats chart, and the screensaver all follow the chosen language instantly - previously some of these stayed in the launch language until a relaunch.</li>
+<li>Localized the onboarding tool picker: category headers (AI agents, Runtimes, Builds &amp; compilers…), the RUNNING badge and the &quot;Running now&quot; state.</li>
+<li>Updates: AwakeMate now checks for a new version automatically every couple of hours and once shortly after launch, showing the update prompt only when there&apos;s actually something newer.</li>
+<li>The software-update window now matches AwakeMate&apos;s dark theme.</li></ul>]]></description>
+      <pubDate>Sat, 26 Sep 2026 08:55:06 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.51/AwakeMate-0.1.51.dmg" sparkle:version="151" sparkle:shortVersionString="0.1.51" type="application/octet-stream" sparkle:edSignature="S3Xzv3mlki5Jyh5ekU9HV33zTj/KIGD5FrBnier8YAW9N4t5upaQYWTPU++VrnptkSdu/lQKtTXTUHkzjkg7BQ==" length="7677521" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.52/AwakeMate-0.1.52.dmg" sparkle:version="152" sparkle:shortVersionString="0.1.52" type="application/octet-stream" sparkle:edSignature="9wHyOe2ibfcRJZMiSxDS6WpRX9J0xsIY1uuL+lC2uBzHdlcJWW1kfyme0YEO1EADmOCFoN6TDZxrysKJHhmyDg==" length="7678107" />
     </item>
   </channel>
 </rss>
