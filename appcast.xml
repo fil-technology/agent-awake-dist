@@ -6,11 +6,11 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.53</title>
-      <description><![CDATA[<h3>What's new in 0.1.53</h3><ul><li>Localized the Apps &amp; Tools detection summary (&quot;Idle-sleep on · deep CLI on&quot;) - the last stretch of English in that panel now follows your language.</li></ul>]]></description>
-      <pubDate>Sat, 26 Sep 2026 09:08:18 +0000</pubDate>
+      <title>0.1.54</title>
+      <description><![CDATA[<h3>What's new in 0.1.54</h3><ul><li>Fixed: on the Status screen, the running-state labels (Working / Idle / Busy / Generating) no longer wrap onto two lines in longer languages - they always stay on a single line.</li></ul>]]></description>
+      <pubDate>Sat, 26 Sep 2026 09:28:08 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.53/AwakeMate-0.1.53.dmg" sparkle:version="153" sparkle:shortVersionString="0.1.53" type="application/octet-stream" sparkle:edSignature="k68wxxnEyriwTN1NSyxI+MUxqc8T0Bt70wTa2/rzbVsjxs5Q10Q2RFIzgzRQBzEhBLa7JZLtRtb3rDGpAlb3CQ==" length="7678554" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.54/AwakeMate-0.1.54.dmg" sparkle:version="154" sparkle:shortVersionString="0.1.54" type="application/octet-stream" sparkle:edSignature="pwZSCaRS4cqwm0DYPEquW4NtTP8npUMwqgcA2efmNJ2gGVNCYeuAeVUyfOTYCTdwpH8ZngEp39j5oiAoiHuQAQ==" length="7680017" />
     </item>
   </channel>
 </rss>
