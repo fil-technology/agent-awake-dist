@@ -6,11 +6,12 @@
     <description>AwakeMate automatic update feed</description>
     <language>en</language>
     <item>
-      <title>0.1.55</title>
-      <description><![CDATA[<h3>What's new in 0.1.55</h3><ul><li>Localized the &quot;Share your stats&quot; card and composer: the size and style names (Card / Post / Story, Warm / Glow / Light / Terminal), the Include toggles, the stat tiles (Sessions, Longest, Sleeps saved, Auto-detected), the week-over-week line and the &quot;+N more&quot; row now follow your language - the last stretch of English on the share sheet is gone.</li></ul>]]></description>
-      <pubDate>Sat, 26 Sep 2026 10:42:16 +0000</pubDate>
+      <title>0.1.56</title>
+      <description><![CDATA[<h3>What's new in 0.1.56</h3><ul><li>The language chooser in Options is now an on-brand popover instead of the plain system menu, with a live hover highlight and a clear checkmark on the active language.</li>
+<li>System default now reliably follows your macOS language when AwakeMate ships it (matching e.g. de-DE to German), and falls back to English when it doesn&apos;t - applied instantly, no relaunch.</li></ul>]]></description>
+      <pubDate>Sat, 26 Sep 2026 17:03:14 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.55/AwakeMate-0.1.55.dmg" sparkle:version="155" sparkle:shortVersionString="0.1.55" type="application/octet-stream" sparkle:edSignature="iDs/DR3JrIpXh7nIsi3Nd4UUn0BPv/x8QXTtcKcDGmaShONsaA/777c9R7SC9oqXxgJIkCqd8OW/c7iPeEBpCg==" length="7681302" />
+      <enclosure url="https://github.com/fil-technology/agent-awake-dist/releases/download/v0.1.56/AwakeMate-0.1.56.dmg" sparkle:version="156" sparkle:shortVersionString="0.1.56" type="application/octet-stream" sparkle:edSignature="i9AO0FDGechZPpvpPImjDJTITKU0RSmegEq/zaYAGq068Sc+xDRRWtSwmiH9HhlkSsHGiBfl1k12yZavdUeJAg==" length="7720808" />
     </item>
   </channel>
 </rss>
